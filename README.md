@@ -3,7 +3,8 @@
 
 This project consists of tracking the user's hands in order to control the volume of the Windows operating system.
 
-Read the PDF report for a complete description of the project.  
+:bulb: There are 2 PDF reports in the PDFs folder. One in Spanish and the another one in English. Choose the one you prefer.  
 
-:bulb: There are 2 PDF reports, one in Spanish and the another one in English, choose what you prefer 
-
+```
+Read the PDF report for a complete description of the project. Thanks :)
+```
